@@ -1,0 +1,20 @@
+"Dad Jokes/Services/JokesStore.swift"
+  s_689c0082b1e8c3::t_417dd1bbd2ff15 29-30,45
+  s_689c0082b1e8c3::t_c32f30401d3785 1-28,31-44,46-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7795963f0d4fe99cdafc279d78b4062c7e479d3a",
+  "prompts": {},
+  "sessions": {
+    "s_689c0082b1e8c3": {
+      "agent_id": {
+        "tool": "cline",
+        "id": "conv_1793333551849_k8xp0l8",
+        "model": "unknown"
+      },
+      "human_author": "Nicholas Lim <nic.lim@foodpanda.com>"
+    }
+  }
+}
